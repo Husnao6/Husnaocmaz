@@ -7,7 +7,7 @@ A little mystery. A lot of code. Quiet confidence.🌹
 
 - 🖤 Ai engineering student 
 - 🌑 Python & R enthusiast
-- 🕸️ passiniote to show my work to  you lucky people    
+- 🕸️ Passionate about sharing my work with you lucky souls    
 - 👠 Soft on the outside, dangerous with the keyboard
   
 ## 🛠️ Tech I Work With
