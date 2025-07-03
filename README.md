@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**Husnaocmaz/Husnaocmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✨ Welcome to my world Husna here 🖤
 
-Here are some ideas to get you started:
+A little mystery. A lot of code. Quiet confidence.🌹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me:
+
+- 🖤 Ai engineering student 
+- 🌑 Python & R enthusiast
+- 🕸️ passiniote to show my work to  you lucky people    
+- 👠 Soft on the outside, dangerous with the keyboard
+  
+## 🛠️ Tech I Work With
+
+- Python 🐍  
+- R
+- Java 
+- Git & GitHub  
+- Still exploring... because curiosity never fades  
+
+## 🌹 A Little More...
+
+- I believe code should be elegant — simple but powerful  
+- Dark mode? Always.  
+
+
+## 🖤 Let's Connect
+
+- [GitHub](https://github.com/Husnaocmaz)  
+  
+### ✨ "Stay soft, stay sharp, stay untouchable." 🌑
