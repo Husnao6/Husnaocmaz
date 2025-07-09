@@ -7,11 +7,9 @@ A little mystery. A lot of code. Quiet confidence.🌹
 
 - 🖤 Ai engineering student 
 - 🌑 Python & R enthusiast
-- 🕸️ Passionate about sharing my work with you lucky souls    
-- 👠 Soft on the outside, dangerous with the keyboard
+- 👠  Passionate about sharing my work with you lucky souls    
   
 ## 🛠️ Tech I Work With
-
 - Python 🐍  
 - R
 - Java 
@@ -22,7 +20,6 @@ A little mystery. A lot of code. Quiet confidence.🌹
 
 - I believe code should be elegant — simple but powerful  
 - Dark mode? Always.  
-
 
 ## 🖤 Let's Connect
 
