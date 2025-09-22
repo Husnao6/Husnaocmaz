@@ -23,6 +23,6 @@ A little mystery. A lot of code. Quiet confidence.🌹
 
 ## 🖤 Let's Connect.
 
-- [GitHub](https://github.com/Husnaocmaz)  
+- [GitHub](https://github.com/Husnao6)  
   
 ### ✨ "Stay soft, stay sharp, stay untouchable." 🌑
