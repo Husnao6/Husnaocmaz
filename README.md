@@ -21,7 +21,7 @@ A little mystery. A lot of code. Quiet confidence.🌹
 - I believe code should be elegant — simple but powerful  
 - Dark mode? Always.  
 
-## 🖤 Let's Connect
+## 🖤 Let's Connect.
 
 - [GitHub](https://github.com/Husnaocmaz)  
   
